@@ -1,0 +1,36 @@
+body {
+    background-color: #111111;
+}
+
+h1 {
+    font-size: 24px;
+    padding: 20px 5px;
+    color: white;
+}
+
+h2 {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.chart-container {
+    margin: 0 auto;
+    position: relative;
+}
+
+#modal {
+    display: none;
+}
+
+.go_modal {
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    border: none;
+    background: transparent;
+    color: white;
+}
+
+.SettingIcon {
+    vertical-align: -1.5px;
+}
